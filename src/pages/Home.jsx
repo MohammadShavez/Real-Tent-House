@@ -239,7 +239,7 @@ function Home() {
             guests will remember.
           </p>
 
-          <a href="../contact" className="primary-button light-button">
+          <a href="Contact" className="primary-button light-button">
             Contact Us
           </a>
 
