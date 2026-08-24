@@ -1,6 +1,7 @@
 import { motion } from "framer-motion";
 import  TestimonialSlider  from "../Components/TestimonialSlider";
 
+
 import {
   Tent,
   Utensils,
@@ -238,7 +239,7 @@ function Home() {
             guests will remember.
           </p>
 
-          <a href="/contact" className="primary-button light-button">
+          <a href="../contact" className="primary-button light-button">
             Contact Us
           </a>
 
